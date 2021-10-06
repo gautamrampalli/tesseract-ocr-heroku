@@ -1,4 +1,4 @@
-#%%writefile app3.py 
+#%%writefile app3.py
 import streamlit as st
 import cv2
 import pytesseract
